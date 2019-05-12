@@ -3,7 +3,7 @@
 - **Current Location:** Florianópolis, SC - Brazil
 - **Phone Number:** +55 (47) 99764-4818
 - **Website:** [jhonatantomimatsu](http://jhonatantomimatsu.com)
-- **Github:** jhonatantft
+- **Github:** [jhonatantft](https://github.com/jhonatantft)
 - **Birth year:** 1994
 - contact@jhonatantomimatsu.com | [LinkedIn](https://www.linkedin.com/in/jhonatantomimatsu/)
 
@@ -21,3 +21,10 @@ I love working in a team, with (or not) pair-programming, sharing experiences, h
 - **Python** - Used mainly to collect and parse data to our database. For example: **(XML, CSV, API)** to an specific **JSON schema**
 - **PHP** - No framework - Search engine.
 - Docker, Sass, HTML, CSS, babel, gulp, github, gitlab, shell scripts, CORS
+
+**Frontend Developer** -  [Dataclick](https://dataclick.com.br/) - February 2016 - May 2017
+> The company has a service for football clubs fan management. If you are a fan you can have a entrance card that you pay monthly or annually. Then you can watch your team at the stadium at any time.
+- **Javascript**, **VueJs**, **HTML**, **CSS**, **Sass**, **bootstrap** and **Laravel** are the mainly stack.
+- I was the one responsible for building and updating the current project and all web applications (front)
+- Work with backend developers to develop expert HTML/CSS/Javascript solutions.
+- Semantic ui, gulp, webpack, jquery, ECMAScript 6, bitbucket.
