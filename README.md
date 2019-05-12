@@ -7,12 +7,12 @@
 - **Birth year:** 1994
 - contact@jhonatantomimatsu.com | [LinkedIn](https://www.linkedin.com/in/jhonatantomimatsu/)
 
-### About me
+## About me
 I am originally a self-taught developer. In 2014 I taught myself enough HTML/CSS to start workig as a freelancer web developer.
 
 I love working in a team, with (or not) pair-programming, sharing experiences, helping each other to accomplish the hardest challenges and grow up together as a professional and in other fields of knowledge. I like face-to-face communication, but I'm also good at chatting (slack, hangouts, e-mail, ...). I learn by doing, teaching and reading. I use to work in my own side projects, participate in development events, meetups, talks and everything related to software development to acquire the best knowledge possible.
 
-### Experience
+## Experience
 **FullStack Developer** -  [Linx Impulse](https://www.linx.com.br/transformacao-digital/linx-impulse/) - May 2018 - Present
 > The core products that the company has to sell are these: Search engine, personalized products showcase and re-engagement emails. Everything based on users behavior inside an ecommerce website, like Netflix. We have some algorithms that draws a profile according with each user and his preferences, after that we show him all possible products that he may wants to buy. Most of the greatest brazilians e-commerce uses our products.
 
@@ -27,6 +27,7 @@ I love working in a team, with (or not) pair-programming, sharing experiences, h
 - **Javascript**, **VueJs**, **HTML**, **CSS**, **Sass**, **bootstrap** and **Laravel** are the mainly stack.
 - I was the one responsible for building and updating the current project and all web applications (front)
 - Work with backend developers to develop expert HTML/CSS/Javascript solutions.
+- MySQL, PostgreSQL.
 - MVC, Docker, Semantic ui, gulp, webpack, jquery, ECMAScript 6, bitbucket.
 
 **Freelancer Web Developer** -  [JhonatanTomimatsu](http://jhonatantomimatsu.com) - February 2015 - December 2015
@@ -34,4 +35,16 @@ I love working in a team, with (or not) pair-programming, sharing experiences, h
 - HTML, CSS.
 - Javascript, jQuery
 - Heroku
+- Photoshop
 - Let's Encrypt certs
+
+## Volunteer Experience
+
+**Principal Graphic Designer** - [First Baptist Church Itajaí](https://www.facebook.com/PibItajai) - March 2016 - August 2017
+- Ensure the dissemination of events through graphic projects and visual communication 
+
+## College / Side projects / External experiences
+- Data Structure - C / C++
+- C++, Java, Go
+- Assembly language - Mips Architecture
+- Computer Vision - [Image Processing](https://github.com/jhonatantft/digital-image-processing) - [Background subtraction webcam](https://github.com/jhonatantft/background-subtraction-webcam)
