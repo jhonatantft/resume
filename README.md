@@ -70,6 +70,6 @@ I love working in a team, with (or not) pair-programming, sharing experiences, h
 - **Spanish**: Beginner Level
 
 ## Publications
-#### [Toyota Culture](https://medium.com/@jhonatan.tft/a-cultura-toyota-e9b5d20d3d9d?source=friends_link&amp;sk=40031887f71224d0d0a91ef0892edd2e) - Portuguese Article
+[Toyota Culture](https://medium.com/@jhonatan.tft/a-cultura-toyota-e9b5d20d3d9d?source=friends_link&amp;sk=40031887f71224d0d0a91ef0892edd2e) - Portuguese Article
 
-#### [Reasons to learn concepts of programming languages](https://link.medium.com/DfKTkeI0QU) - Portuguese Article
+[Reasons to learn concepts of programming languages](https://link.medium.com/DfKTkeI0QU) - Portuguese Article
