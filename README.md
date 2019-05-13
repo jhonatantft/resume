@@ -15,7 +15,7 @@ I love working in a team, with (or not) pair-programming, sharing experiences, h
 ## Education
 **Bachelor of Computer Science** - [Univali](https://www.univali.br/) - 2016 - Present
 
-**High Scool** - School Corporation Hiro Gakuen Japan - 2010 - 2011
+**High School** - School Corporation Hiro Gakuen Japan - 2010 - 2011
 
 ## Experience
 **FullStack Developer** -  [Linx Impulse](https://www.linx.com.br/transformacao-digital/linx-impulse/) - May 2018 - Present
