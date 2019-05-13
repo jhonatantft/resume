@@ -12,6 +12,11 @@ I am originally a self-taught developer. In 2014 I taught myself enough HTML/CSS
 
 I love working in a team, with (or not) pair-programming, sharing experiences, helping each other to accomplish the hardest challenges and grow up together as a professional and in other fields of knowledge. I like face-to-face communication, but I'm also good at chatting (slack, hangouts, e-mail, ...). I learn by doing, teaching and reading. I use to work in my own side projects, participate in development events, meetups, talks and everything related to software development to acquire the best knowledge possible.
 
+## Education
+**Bachelor of Computer Science** - [Univali](https://www.univali.br/) - 2016 - Present
+
+**High Scool** - School Corporation Hiro Gakuen Japan - 2010 - 2011
+
 ## Experience
 **FullStack Developer** -  [Linx Impulse](https://www.linx.com.br/transformacao-digital/linx-impulse/) - May 2018 - Present
 > The core products that the company has to sell are these: Search engine, personalized products showcase and re-engagement emails. Everything based on users behavior inside an ecommerce website, like Netflix. We have some algorithms that draws a profile according with each user and his preferences, after that we show him all possible products that he may wants to buy. Most of the greatest brazilians e-commerce uses our products.
@@ -56,8 +61,3 @@ I love working in a team, with (or not) pair-programming, sharing experiences, h
 - **Machine learning** - Tensorflow, Kaggle, Python
 - Amazon Web Services
 - **Unity** - C# (Long ago)
-
-## Education
-**Bachelor of Computer Science** - [Univali](https://www.univali.br/) - 2016 - Present
-
-**High Scool** - School Corporation Hiro Gakuen Japan - 2010 - 2011
