@@ -41,10 +41,23 @@ I love working in a team, with (or not) pair-programming, sharing experiences, h
 ## Volunteer Experience
 
 **Principal Graphic Designer** - [First Baptist Church Itajaí](https://www.facebook.com/PibItajai) - March 2016 - August 2017
-- Ensure the dissemination of events through graphic projects and visual communication 
+- Ensure the dissemination of events through graphic projects and visual communication
+
+## Past Roles
+**Numerical Control Machine Operator** - Maruyoshi Kogyo Japan - September 2017 - February 2018
+
+**Eletronic Assembler** - NBM Japan - January 2012 - May 2012 
 
 ## College / Side projects / External experiences
 - Data Structure - C / C++
-- C++, Java, Go
+- Java, Go, Prolog, MongoDB
 - Assembly language - Mips Architecture
-- Computer Vision - [Image Processing](https://github.com/jhonatantft/digital-image-processing) - [Background subtraction webcam](https://github.com/jhonatantft/background-subtraction-webcam)
+- **Computer Vision** - [Image Processing](https://github.com/jhonatantft/digital-image-processing) - [Background subtraction webcam](https://github.com/jhonatantft/background-subtraction-webcam)
+- **Machine learning** - Tensorflow, Kaggle, Python
+- Amazon Web Services
+- **Unity** - C# (Long ago)
+
+## Education
+**Bachelor of Computer Science** - [Univali](https://www.univali.br/) - 2016 - Present
+
+**High Scool** - School Corporation Hiro Gakuen Japan - 2010 - 2011
