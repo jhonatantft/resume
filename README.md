@@ -23,7 +23,7 @@ I love working in a team, with (or not) pair-programming, sharing experiences, h
 
 > My focus here is to ensure that all products will work properly. To achieve that I need to give maintenance, continuous improvement, data validation, REST API, documentation, cross platform integration, develop and conceive new products and tools.
 - **Javascript** (Main language) - ES5, ES6, Vuejs, NodeJs, Express, React, Jquery - Search engine(frontend) and personalized showcase.
-- **Python** - Used mainly to collect and parse data to our database. For example: **(XML, CSV, API)** to an specific **JSON schema**
+- **Python** - Used mainly to collect and parse complex data to our database. For example: **(XML, CSV, API)** to an specific **JSON schema**
 - **PHP** - No framework - Search engine.
 - Docker, Sass, HTML, CSS, babel, gulp, github, gitlab, shell scripts, CORS, heroku.
 
@@ -61,3 +61,10 @@ I love working in a team, with (or not) pair-programming, sharing experiences, h
 - **Machine learning** - Tensorflow, Kaggle, Python
 - Amazon Web Services
 - **Unity** - C# (Long ago)
+- Photoshop, Illustrator
+
+## Language Skills
+- **Portuguese**: Native Language
+- **English**: Business Level
+- **Japanese**: Conversational Level
+- **Spanish**: Beginner Level
