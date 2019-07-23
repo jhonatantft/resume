@@ -8,9 +8,8 @@
 - contact@jhonatantomimatsu.com | [LinkedIn](https://www.linkedin.com/in/jhonatantomimatsu/)
 
 ## About me
-I am originally a self-taught developer driven by well-applied knowledge. In 2014 I taught myself enough HTML/CSS to start workig as a freelancer web developer. This was only the beginning.
-
-I love working in a team, with (or not) pair-programming, sharing experiences, helping each other to accomplish the hardest challenges and grow up together as a professional and in other fields of knowledge. I like face-to-face communication, but I'm also good at chatting (slack, hangouts, e-mail, ...). I learn by doing, teaching and reading. I use to work in my own side projects, participate in development events, meetups, talks and everything related to software development to acquire the best knowledge possible.
+I am driven by well-applied knowledge.
+I learn by doing, teaching and reading, few things make me as happy as learning and teaching. Even subjects not related to technology are great for learning, with such knowledge it's possible to reach an open mind to various possibilities.
 
 ## Education
 **Bachelor of Computer Science** - [Univali](https://www.univali.br/) - 2016 - Present
