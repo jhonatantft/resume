@@ -17,7 +17,7 @@ I am driven by well-applied knowledge.
 
 ## Experience
 **Solutions Architect** -  [Linx Impulse](https://www.linx.com.br/transformacao-digital/linx-impulse/) - June 2020 - Present
-> Designing, describing, and managing the solution engineering in relation to many business problems related to customer's architecture. In charge of introducing the overall technical vision for a particular solution.
+> Describing, designing, and managing the solution engineering in relation to customers architecture. In charge of introducing the overall technical vision for a particular solution.
 - **Platforms** - Oracle Commerce, Magento, VTEX, Rakuten, Infracommerce, Irroba, Loja Integrada, Tray, Nuvemshop
 
 **Software Developer** -  [Linx Impulse](https://www.linx.com.br/transformacao-digital/linx-impulse/) - May 2018 - May 2020
