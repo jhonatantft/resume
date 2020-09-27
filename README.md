@@ -31,12 +31,11 @@ I am driven by well-applied knowledge.
 - Docker, Sass, HTML, CSS, babel, gulp, github, gitlab, shell scripts, heroku.
 
 **Frontend Developer** -  [Dataclick](https://dataclick.com.br/) - February 2016 - May 2017
-> The company has a service for football clubs fan management. If you are a fan you can have a entrance card that you pay monthly or annually. Then you can watch your team at the stadium at any time.
+> Football clubs fan management service. If you are a fan you can have a entrance card that you pay monthly or annually. Then you can watch your team at the stadium at any time.
 - **Javascript**, **VueJs**, **HTML**, **CSS**, **Sass**, **bootstrap** and **Laravel** are the mainly stack.
-- I was the one responsible for building and updating the current project and all web applications (front)
-- Work with backend developers to develop expert HTML/CSS/Javascript solutions.
+- Responsible for the maintenance of all frontend systems
 - MySQL, PostgreSQL.
-- MVC, Docker, Semantic ui, gulp, webpack, jquery, ECMAScript 6, bitbucket.
+- MVC Architecture, Docker, Semantic ui, gulp, webpack, jquery, ECMAScript 6, bitbucket.
 
 **Freelancer Web Developer** -  [JhonatanTomimatsu](http://jhonatantomimatsu.com) - February 2015 - December 2015
 > Use to create a bunch of interfaces.
