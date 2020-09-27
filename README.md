@@ -17,7 +17,10 @@ I learn by doing, teaching and reading, few things make me as happy as learning 
 **High School** - School Corporation Hiro Gakuen Japan - 2010 - 2011
 
 ## Experience
-**FullStack Developer** -  [Linx Impulse](https://www.linx.com.br/transformacao-digital/linx-impulse/) - May 2018 - Present
+**Solutions Architect** -  [Linx Impulse](https://www.linx.com.br/transformacao-digital/linx-impulse/) - June 2020 - Present
+> Designing, describing, and managing the solution engineering in relation to many business problems related to customer's architecture. In charge of introducing the overall technical vision for a particular solution.
+
+**Software Developer** -  [Linx Impulse](https://www.linx.com.br/transformacao-digital/linx-impulse/) - May 2018 - May 2020
 > The core products that the company has to sell are these: Search engine, personalized products showcase and re-engagement emails. Everything based on users behavior inside an ecommerce website, like Netflix. We have some algorithms that draws a profile according with each user and his preferences, after that we show him all possible products that he may wants to buy. Most of the greatest brazilians e-commerce uses our products.
 
 > My focus here is to ensure that all products will work properly. To achieve that I need to give maintenance, continuous improvement, data validation, REST API, documentation, cross platform integration, develop and conceive new products and tools.
