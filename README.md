@@ -9,7 +9,6 @@
 
 ## About me
 I am driven by well-applied knowledge.
-I learn by doing, teaching and reading, few things make me as happy as learning and teaching. Even subjects not related to technology are great for learning, with such knowledge it's possible to reach an open mind to various possibilities.
 
 ## Education
 **Bachelor of Computer Science** - [Univali](https://www.univali.br/) - 2016 - Present
