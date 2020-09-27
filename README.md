@@ -47,7 +47,7 @@ I am driven by well-applied knowledge.
 
 ## Volunteer Experience
 
-**Principal Graphic Designer** - [First Baptist Church Itajaí](https://www.facebook.com/PibItajai) - March 2016 - August 2017
+**Principal Graphic Designer** - First Baptist Church Itajaí - March 2016 - August 2017
 - Ensure the dissemination of events through graphic projects and visual communication
 
 ## Past Roles
