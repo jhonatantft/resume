@@ -27,7 +27,8 @@ I am driven by well-applied knowledge.
 - **Javascript** (Main language) - ES5, ES6, Vuejs, NodeJs, Express, React, Jquery - Search engine(frontend) and personalized showcase.
 - **Python** - Used mainly to collect and parse complex data to our database. For example: **(XML, CSV, API)** to an specific **JSON schema**
 - **PHP** - No framework - Search engine.
-- Docker, Sass, HTML, CSS, babel, gulp, github, gitlab, shell scripts, CORS, heroku.
+- **Microservices Architecture**
+- Docker, Sass, HTML, CSS, babel, gulp, github, gitlab, shell scripts, heroku.
 
 **Frontend Developer** -  [Dataclick](https://dataclick.com.br/) - February 2016 - May 2017
 > The company has a service for football clubs fan management. If you are a fan you can have a entrance card that you pay monthly or annually. Then you can watch your team at the stadium at any time.
@@ -55,9 +56,10 @@ I am driven by well-applied knowledge.
 
 **Eletronic Assembler** - NBM Japan - January 2012 - May 2012 
 
-## College / Side projects / External experiences
+## Side projects / External experiences
 - Data Structure - C / C++
 - Java, Go, Prolog, MongoDB
+- AI
 - Assembly language - Mips Architecture
 - **Computer Vision** - [Image Processing](https://github.com/jhonatantft/digital-image-processing) - [Background subtraction webcam](https://github.com/jhonatantft/background-subtraction-webcam)
 - **Machine learning** - Tensorflow, Kaggle, Python
