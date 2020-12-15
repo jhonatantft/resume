@@ -18,17 +18,28 @@ I am driven by well-applied knowledge.
 ## Experience
 **Solutions Architect** -  [Linx Impulse](https://www.linx.com.br/transformacao-digital/linx-impulse/) - June 2020 - Present
 > Describing, designing, and managing the solution engineering in relation to customers architecture. In charge of introducing the overall technical vision for a particular solution.
+- **Omnichannel solutions integration specialist**
+  - Business Blueprint conception
+  - Risk Management
+  - Proposals for scalable solutions
+  - Technical validation
+- **Product Recommendation solutions integration specialist**
+  - Technical validation
+  - Pre-sale technical support
+  - Development of integration documentation
 - **Platforms** - Oracle Commerce, Magento, VTEX, Rakuten, Infracommerce, Irroba, Loja Integrada, Tray, Nuvemshop
 
 **Software Developer** -  [Linx Impulse](https://www.linx.com.br/transformacao-digital/linx-impulse/) - May 2018 - May 2020
-> The core products that the company has to sell are these: Search engine, personalized products showcase and re-engagement emails. Everything based on users behavior inside an ecommerce website, like Netflix. We have some algorithms that draws a profile according with each user and his preferences, after that we show him all possible products that he may wants to buy. Most of the greatest brazilians e-commerce uses our products.
+> The core products are these: Search engine, personalized products showcase and re-engagement emails. Everything based on users behavior inside an ecommerce website. Our algorithms draws a profile according with each user and his preferences, after that we show him all possible products that he may wants to buy. Most of the greatest brazilians e-commerce uses our products.
 
-> My focus here is to ensure that all products will work properly. To achieve that I need to give maintenance, continuous improvement, data validation, REST API, documentation, cross platform integration, develop and conceive new products and tools.
-- **Javascript** (Main language) - ES5, ES6, Vuejs, NodeJs, Express, React, Jquery - Search engine(frontend) and personalized showcase.
-- **Python** - Used mainly to collect and parse complex data to our database. For example: **(XML, CSV, API)** to an specific **JSON schema**
-- **PHP** - No framework - Search engine.
-- **Microservices Architecture**
-- Docker, Sass, HTML, CSS, babel, gulp, github, gitlab, shell scripts, heroku.
+> My focus here is to ensure that all products will work properly. To achieve that I need to give maintenance, continuous improvement, data validation, develop APIs (REST, graphql), documentation, cross platform integration, develop and conceive new products and tools.
+- **Javascript** Vuejs, NodeJs, Express, React, Jquery - Search engine(frontend) and personalized showcase;
+- **Python** - Used mainly to collect and parse complex data to our database. For example: **(XML, CSV, API)** to an specific **JSON schema**;
+- **PHP** - Search engine;
+- **MongoDB, Redis, Postgres, MySQL**
+- **Optimize our services performances focusing on scalability**
+- **Microservices Architecture**;
+- Docker, kubernetes, AWS, Sass, HTML, CSS, babel, gulp, github, gitlab, shell scripts, heroku.
 
 **Frontend Developer** -  [Dataclick](https://dataclick.com.br/) - February 2016 - May 2017
 > Football clubs fan management service. If you are a fan you can have a entrance card that you pay monthly or annually. Then you can watch your team at the stadium at any time.
@@ -38,7 +49,7 @@ I am driven by well-applied knowledge.
 - MVC Architecture, Docker, Semantic ui, gulp, webpack, jquery, ECMAScript 6, bitbucket.
 
 **Freelancer Web Developer** -  [JhonatanTomimatsu](http://jhonatantomimatsu.com) - February 2015 - December 2015
-> Use to create a bunch of interfaces.
+> Interface development.
 - HTML, CSS.
 - Javascript, jQuery
 - Heroku
@@ -57,13 +68,17 @@ I am driven by well-applied knowledge.
 
 ## Side projects / External experiences
 - Data Structure - C / C++
-- Java, Go, Prolog, MongoDB
-- AI
+- Java, Go, Prolog
+- Artificial Intelligence
+  - Case Based Reasoning
+  - Deep Learning
+  - Machine Learning
+  - Tensorflow
 - Assembly language - Mips Architecture
-- **Computer Vision** - [Image Processing](https://github.com/jhonatantft/digital-image-processing) - [Background subtraction webcam](https://github.com/jhonatantft/background-subtraction-webcam)
-- **Machine learning** - Tensorflow, Kaggle, Python
-- Amazon Web Services
-- **Unity** - C# (Long ago)
+- **Computer Vision**
+  - [Background subtraction webcam](https://github.com/jhonatantft/background-subtraction-webcam)
+  - [Multiplanar reconstruction](https://github.com/jhonatantft/multiplanar-reconstruction)
+- **Unity** - C#
 - Photoshop, Illustrator
 
 ## Language Skills
