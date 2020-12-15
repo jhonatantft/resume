@@ -27,6 +27,7 @@ I am driven by well-applied knowledge.
   - Technical validation;
   - Pre-sale technical support;
   - Development of integration documentation;
+  - Code review;
 - **Platforms** - Oracle Commerce, Magento, VTEX, Rakuten, Infracommerce, Irroba, Loja Integrada, Tray, Nuvemshop
 
 **Software Developer** -  [Linx Impulse](https://www.linx.com.br/transformacao-digital/linx-impulse/) - May 2018 - May 2020
