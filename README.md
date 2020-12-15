@@ -67,8 +67,10 @@ I am driven by well-applied knowledge.
 **Eletronic Assembler** - NBM Japan - January 2012 - May 2012 
 
 ## Side projects / External experiences
-- Data Structure - C / C++
 - Java, Go, Prolog
+- Graphs
+  - [Graph Representation Repo](https://github.com/jhonatantft/graph-representation) - [Demo](https://jhonatantft.github.io/graph-representation/)
+- [Database entities sample documentation for chatbot](https://jhonatantft.github.io/ebot-database-documentation/)
 - Artificial Intelligence
   - Case Based Reasoning
   - Deep Learning
@@ -78,6 +80,7 @@ I am driven by well-applied knowledge.
 - **Computer Vision**
   - [Background subtraction webcam](https://github.com/jhonatantft/background-subtraction-webcam)
   - [Multiplanar reconstruction](https://github.com/jhonatantft/multiplanar-reconstruction)
+  - [Bresenham Line](https://github.com/jhonatantft/points-transform)
 - **Unity** - C#
 - Photoshop, Illustrator
 
