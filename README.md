@@ -76,6 +76,7 @@ I am driven by well-applied knowledge.
   - Deep Learning
   - Machine Learning
   - Tensorflow
+    - [CNN image classification](https://github.com/jhonatantft/cnn-image-classification)
 - Assembly language - Mips Architecture
 - **Computer Vision**
   - [Background subtraction webcam](https://github.com/jhonatantft/background-subtraction-webcam)
