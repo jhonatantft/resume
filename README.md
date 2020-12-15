@@ -16,7 +16,7 @@ I am driven by well-applied knowledge.
 **High School** - School Corporation Hiro Gakuen Japan - 2010 - 2011
 
 ## Experience
-**Solutions Architect** -  [Linx Impulse](https://www.linx.com.br/transformacao-digital/linx-impulse/) - June 2020 - Present
+**Solutions Architect** -  [Linx Digital](https://www.linx.com.br/linx-digital/) - June 2020 - Present
 > Describing, designing, and managing the solution engineering in relation to customers architecture. In charge of introducing the overall technical vision for a particular solution.
 - **Omnichannel solutions integration specialist**
   - Business Blueprint conception;
