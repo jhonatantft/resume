@@ -19,14 +19,14 @@ I am driven by well-applied knowledge.
 **Solutions Architect** -  [Linx Impulse](https://www.linx.com.br/transformacao-digital/linx-impulse/) - June 2020 - Present
 > Describing, designing, and managing the solution engineering in relation to customers architecture. In charge of introducing the overall technical vision for a particular solution.
 - **Omnichannel solutions integration specialist**
-  - Business Blueprint conception
-  - Risk Management
-  - Proposals for scalable solutions
-  - Technical validation
+  - Business Blueprint conception;
+  - Risk Management;
+  - Proposals for scalable solutions;
+  - Technical validation;
 - **Product Recommendation solutions integration specialist**
-  - Technical validation
-  - Pre-sale technical support
-  - Development of integration documentation
+  - Technical validation;
+  - Pre-sale technical support;
+  - Development of integration documentation;
 - **Platforms** - Oracle Commerce, Magento, VTEX, Rakuten, Infracommerce, Irroba, Loja Integrada, Tray, Nuvemshop
 
 **Software Developer** -  [Linx Impulse](https://www.linx.com.br/transformacao-digital/linx-impulse/) - May 2018 - May 2020
@@ -36,25 +36,25 @@ I am driven by well-applied knowledge.
 - **Javascript** Vuejs, NodeJs, Express, React, Jquery - Search engine(frontend) and personalized showcase;
 - **Python** - Used mainly to collect and parse complex data to our database. For example: **(XML, CSV, API)** to an specific **JSON schema**;
 - **PHP** - Search engine;
-- **MongoDB, Redis, Postgres, MySQL**
-- **Optimize our services performances focusing on scalability**
+- **MongoDB, Redis, Postgres, MySQL**;
+- **Optimize our services performances focusing on scalability**;
 - **Microservices Architecture**;
 - Docker, kubernetes, AWS, Sass, HTML, CSS, babel, gulp, github, gitlab, shell scripts, heroku.
 
 **Frontend Developer** -  [Dataclick](https://dataclick.com.br/) - February 2016 - May 2017
 > Football clubs fan management service. If you are a fan you can have a entrance card that you pay monthly or annually. Then you can watch your team at the stadium at any time.
-- **Javascript**, **VueJs**, **HTML**, **CSS**, **Sass**, **bootstrap** and **Laravel** are the mainly stack.
-- Responsible for the maintenance of all frontend systems
-- MySQL, PostgreSQL.
-- MVC Architecture, Docker, Semantic ui, gulp, webpack, jquery, ECMAScript 6, bitbucket.
+- **Javascript**, **VueJs**, **HTML**, **CSS**, **Sass**, **bootstrap** and **Laravel** are the mainly stack;
+- Responsible for the maintenance of all frontend systems;
+- MySQL, PostgreSQL;
+- MVC Architecture, Docker, Semantic ui, gulp, webpack, jquery, ECMAScript 6, bitbucket;
 
 **Freelancer Web Developer** -  [JhonatanTomimatsu](http://jhonatantomimatsu.com) - February 2015 - December 2015
 > Interface development.
-- HTML, CSS.
-- Javascript, jQuery
-- Heroku
-- Photoshop
-- Let's Encrypt certs
+- HTML, CSS;
+- Javascript, jQuery;
+- Heroku;
+- Photoshop;
+- Let's Encrypt certs;
 
 ## Volunteer Experience
 
