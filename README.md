@@ -16,7 +16,9 @@ I am driven by well-applied knowledge.
 **High School** - School Corporation Hiro Gakuen Japan - 2010 - 2011
 
 ## Experience
-**Solutions Architect** -  [Linx Digital](https://www.linx.com.br/linx-digital/) - June 2020 - Present
+**Senior Software Engineer** -  [Intelbras](https://intelbras.com/en) - March 2021 - Present
+
+**Solutions Architect** -  [Linx Digital](https://www.linx.com.br/linx-digital/) - June 2020 - March 2021
 > Describing, designing, and managing the solution engineering in relation to customers architecture. In charge of introducing the overall technical vision for a particular solution.
 - **Omnichannel solutions integration specialist**
   - Business Blueprint conception;
