@@ -17,6 +17,13 @@ I am driven by well-applied knowledge.
 
 ## Experience
 **Senior Software Engineer** -  [Intelbras](https://intelbras.com/en) - March 2021 - Present
+> Implement the standard features of the company's Ecommerce platform and add custom developments as required.
+- Provide support to the regional e-commerce platform (Brazil);
+- Provide support in the development and maintenance of front-end resources in React.JS / Vue.js / Bootstrap / HTML / Javascript and CSS;
+- Provide support in the development and maintenance of back-end resources and architectural features in Nodejs / Red Hat Openshift / MongoDB / MariaDB / Docker / Kubernetes
+- Work with the team to transform requirements and projects into real solutions;
+- Respond and resolve system failures and performance problems;
+- Prepare design documents and other technical documentation to support the business application;
 
 **Solutions Architect** -  [Linx Digital](https://www.linx.com.br/linx-digital/) - June 2020 - March 2021
 > Describing, designing, and managing the solution engineering in relation to customers architecture. In charge of introducing the overall technical vision for a particular solution.
