@@ -105,3 +105,7 @@ I am driven by well-applied knowledge.
 [Toyota Culture](https://medium.com/@jhonatan.tft/a-cultura-toyota-e9b5d20d3d9d?source=friends_link&amp;sk=40031887f71224d0d0a91ef0892edd2e) - Portuguese Article
 
 [Reasons to learn concepts of programming languages](https://link.medium.com/DfKTkeI0QU) - Portuguese Article
+
+[What is Bitcoin?](https://jhonatantft.medium.com/o-que-%C3%A9-bitcoin-d27ff104c279) - Portuguese Article
+
+[Algorithm Time Complexity and Big O Notation](https://jhonatantft.medium.com/complexidade-de-tempo-em-algoritmos-e-nota%C3%A7%C3%A3o-big-o-43b50caf5f6c) - Portuguese Article
