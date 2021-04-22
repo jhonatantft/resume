@@ -32,7 +32,7 @@ I am driven by well-applied knowledge.
   - Risk Management;
   - Proposals for scalable solutions;
   - Technical validation;
-- **Product Recommendation solutions integration specialist**
+  - Product Recommendation solutions integration specialist
   - Technical validation;
   - Pre-sale technical support;
   - Development of integration documentation;
@@ -77,22 +77,13 @@ I am driven by well-applied knowledge.
 **Eletronic Assembler** - NBM Japan - January 2012 - May 2012 
 
 ## Side projects / External experiences
-- Java, Go, Prolog
-- Graphs
-  - [Graph Representation Repo](https://github.com/jhonatantft/graph-representation) - [Demo](https://jhonatantft.github.io/graph-representation/)
+- [Graph Representation Repo](https://github.com/jhonatantft/graph-representation) - [Demo](https://jhonatantft.github.io/graph-representation/)
 - [Database entities sample documentation for chatbot](https://jhonatantft.github.io/ebot-database-documentation/)
-- Artificial Intelligence
-  - Case Based Reasoning
-  - Deep Learning
-  - Machine Learning
-  - Tensorflow
-    - [CNN image classification](https://github.com/jhonatantft/cnn-image-classification)
+- [CNN image classification](https://github.com/jhonatantft/cnn-image-classification)
 - Assembly language - Mips Architecture
-- **Computer Vision**
-  - [Background subtraction webcam](https://github.com/jhonatantft/background-subtraction-webcam)
-  - [Multiplanar reconstruction](https://github.com/jhonatantft/multiplanar-reconstruction)
-  - [Bresenham Line](https://github.com/jhonatantft/points-transform)
-- **Unity** - C#
+- [Background subtraction webcam](https://github.com/jhonatantft/background-subtraction-webcam)
+- [Multiplanar reconstruction](https://github.com/jhonatantft/multiplanar-reconstruction)
+- [Bresenham Line](https://github.com/jhonatantft/points-transform)
 - Photoshop, Illustrator
 
 ## Language Skills
